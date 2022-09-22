@@ -1,0 +1,1 @@
+var name="welcome to git "
